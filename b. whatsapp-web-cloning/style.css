@@ -257,7 +257,6 @@ nav div:nth-child(2) > ul li:hover::before {
   font-size: 0.8rem;
   padding-top: 2px;
   -webkit-text-stroke: 1px black;
-  text-stroke: 1px #000000;
   margin-left: 15px;
 }
 .miss .left a:hover {
